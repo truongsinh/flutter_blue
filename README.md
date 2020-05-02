@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Type-safe, minimalistic Buetooth plugin for [Flutter](http://www.flutter.dev),
+Type-safe, minimalistic Bluetooth plugin for [Flutter](http://www.flutter.dev),
 a fork from orignal "FlutterBlue" plugin.
 
 ## Cross-Platform Bluetooth LE
